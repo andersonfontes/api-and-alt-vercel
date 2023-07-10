@@ -1,0 +1,15 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "Sapato marrom",
+      "preco": "199.99"
+    }
+  ,
+  {
+    "id": 2,
+    "descricao": "Sapato preto",
+    "preco": "299.99"
+  }
+]
+}
