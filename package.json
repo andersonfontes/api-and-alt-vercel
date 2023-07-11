@@ -5,7 +5,7 @@
     "prompt-sync": "^4.2.0"
   },
   "scripts": {
-    "start": "json-server --watch db.json --port 3003"
+    "start": "json-server --watch db.json --port 5000"
   },
   "name": "api-and-main",
   "version": "1.0.0",
